@@ -1,0 +1,164 @@
+{
+  "skills": [
+    {
+      "tech": "Node.js",
+      "years": 2
+    },
+    {
+      "tech": "Java",
+      "years": 7
+    },
+    {
+      "tech": "React",
+      "years": 1
+    },
+    {
+      "tech": "Angula.js",
+      "years": 1
+    },
+    {
+      "tech": "Angular",
+      "years": 1
+    },
+    {
+      "tech": "MySQL",
+      "years": 5
+    },
+    {
+      "tech": "SQL Server",
+      "years": 4
+    },
+    {
+      "tech": "Data Analytics",
+      "years": 2
+    },
+    {
+      "tech": "PHP",
+      "years": 4
+    },
+    {
+      "tech": "Python",
+      "years": 0.3
+    },
+    {
+      "tech": "Guidewire",
+      "years": 0.5
+    },
+    {
+      "tech": "Oracle",
+      "years": 4
+    },
+    {
+      "tech": "AWS",
+      "years": 1
+    },
+    {
+      "tech": "Spring",
+      "years": 2
+    },
+    {
+      "tech": "Wildfly",
+      "years": 1
+    },
+    {
+      "tech": "JQuery",
+      "years": 5
+    }
+  ],
+  "experiences": [
+    {
+      "position": "Senior Back-end Developer",
+      "start": "May 2019",
+      "end": null,
+      "company": "PwC",
+      "description": "",
+      "techs": [
+        "Guidewire",
+        "Java",
+        "SQL Server"
+      ]
+    },
+    {
+      "position": "Senior Full Stack Developer",
+      "start": "Sep 2018",
+      "end": "Apr 2019",
+      "company": "iBlue",
+      "description": "",
+      "techs": [
+        "Node.js",
+        "MySQL",
+        "Angular",
+        "AWS"
+      ]
+    },
+    {
+      "position": "Full Stack Developer",
+      "start": "Jun 2018",
+      "end": "Sep 2018",
+      "company": "Visagio",
+      "description": "",
+      "techs": [
+        "Ruby",
+        "Data Analysis",
+        "Oracle DB",
+        "Python"
+      ]
+    },
+    {
+      "position": "Full Stack Developer",
+      "start": "Oct 2015",
+      "end": "Apr 2018",
+      "company": "IBM",
+      "description": "",
+      "techs": [
+        "Java",
+        "SQL Server",
+        "Spring",
+        "Wildfly",
+        "Oracle DB"
+      ]
+    },
+    {
+      "position": "Full Stack Developer",
+      "start": "May 2014",
+      "end": "Sep 2015",
+      "company": "TO Brasil",
+      "description": "",
+      "techs": [
+        "Grails",
+        "Oracle DB",
+        "Angular.js"
+      ]
+    },
+    {
+      "position": "Full Stack Developer",
+      "start": "Aug 2012",
+      "end": "May 2014",
+      "company": "Accenture",
+      "description": "",
+      "techs": [
+        "Java",
+        "Spring",
+        "Oracle DB",
+        "JQuery"
+      ]
+    }
+  ],
+  "studies": [
+    {
+      "degree": "Bachelor",
+      "course": "Computer Science",
+      "year": "2012"
+    },
+    {
+      "degree": "Certification",
+      "course": "Data Driven Decision Making",
+      "year": "2019"
+    },
+    {
+      "degree": "Certification",
+      "course": "Problem Solving with Excel",
+      "year": "2019"
+    }
+  ]
+}
